@@ -21,5 +21,5 @@ jobs:
     - name: push changes to remote
       run: |
         git add -A
-        git commit -m "Compressed Resource Pack For Server Use"
+        git commit -m "Compressed Resourcepack"
         git push --force
